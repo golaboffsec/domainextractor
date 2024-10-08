@@ -7,7 +7,7 @@ O **Domain Extractor** é uma ferramenta simples em Go que permite extrair domí
 Para instalar a ferramenta, utilize o seguinte comando:
 
 ```bash
-go install github.com/  /domainextract@latest
+go install github.com/golaboffsec/domainextractor@latest
 ```
 
 ## Exemplo
